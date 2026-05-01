@@ -11,7 +11,7 @@ We make games on Roblox (and beyond) and tools to help people get things done.
 ## Find us
 
 - 🌐 [chubbiclan.gg](https://chubbiclan.gg)
-- 🎮 [Chubbiclan on Roblox](https://www.roblox.com/communities/[YOUR-GROUP-ID])
+- 🎮 [Chubbiclan on Roblox](https://www.roblox.com/communities/306478900)
 - 💬 Discord — coming soon
 - 🎥 YouTube — coming soon
 
