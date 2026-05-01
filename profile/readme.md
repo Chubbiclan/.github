@@ -1,4 +1,4 @@
-# Chubbiclan
+# Chubbi Clan
 
 **A family-run game and app studio. Eight builders, one clan.**
 
